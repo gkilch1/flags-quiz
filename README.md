@@ -49,7 +49,10 @@ Steps to running locally:
      
    - Once you have made the changes to the 'index.js' file, save them and return to your terminal. Run the command 'nodemon index.js' to launch the app on 'localhost:3000'. Open your browser and go to 'localhost'. You can then start the flags quiz.
      > For Windows users to view the flags properly, you will need to use Firefox and not Chrome.
-     
+   - Here is the end result:
+
+     > ![Screenshot (355)](https://github.com/gkilch1/flags-quiz/assets/113639024/78dbe6dc-1c66-4541-96e9-c126a6940f6c)
+
 
 
 
